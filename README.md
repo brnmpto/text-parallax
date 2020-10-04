@@ -22,6 +22,6 @@ Text Parallax
 - [x] CSS
 - [x] Javascript
 
-![codepen](https://codepen.io/brnmpto/pen/OJNKqNG)
+[codepen](https://codepen.io/brnmpto/pen/OJNKqNG)
 
 ![WebsiteGif](http://g.recordit.co/kR0q0TPpIt.gif)
