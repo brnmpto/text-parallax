@@ -20,7 +20,7 @@ Text Parallax
 
 - [x] HTML
 - [x] CSS
-- [x] Javascript
+- [x] Javascript.
 
 [codepen](https://codepen.io/brnmpto/pen/OJNKqNG)
 
